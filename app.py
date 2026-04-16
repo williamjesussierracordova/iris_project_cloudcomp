@@ -5,7 +5,7 @@ import numpy as np
 
 import psycopg2
 # Fetch variables
-USER = "iris_project" #os.getenv("user")
+USER = "postgres" #os.getenv("user")
 PASSWORD = "iris_project12"# os.getenv("password")
 HOST = "db.wowffrsbanthdyhquzjg.supabase.co" #os.getenv("host")
 PORT = "5432" #os.getenv("port")
